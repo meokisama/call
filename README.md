@@ -7,7 +7,7 @@ technology.
 
 ## Features
 
-<img align="right" width="400" height="auto" src="public/images/preview.gif">
+<img align="right" width="400" height="auto" src="public/images/preview.png">
 
 - Screen sharing
 - Picture in picture

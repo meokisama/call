@@ -1,7 +1,7 @@
 # Decentralized Video Chat
 
 Decentralized video chat platform powered by WebRTC using Twilio STUN/TURN infrastructure.
-Zipcall provides video quality and latency simply not available with traditional
+This app provides video quality and latency simply not available with traditional
 technology.
 
 

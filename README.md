@@ -50,9 +50,3 @@ npm start
 - Open `localhost:3000` in browser
 - If you want to use a client on another computer/network, make sure you publish your server on an HTTPS connection.
   You can use a service like [ngrok](https://ngrok.com/) for that.
-
-## Contributing
-
-Pull Requests are welcome!
-
-Please run prettier on all of your PRs before submitting, this can be done with `prettier --write` in the project directory.
